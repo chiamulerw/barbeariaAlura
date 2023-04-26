@@ -12,7 +12,10 @@ body {
 }
 
 .titulo-principal {
-    padding-left: 20px;
+    padding-left: 30px;
+    margin: 15px ;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .titulo-centralizado { 
