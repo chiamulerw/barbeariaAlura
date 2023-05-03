@@ -94,10 +94,7 @@ header {
         margin: 20px 0 0;
     }
 
-    main {
-        
-    }
-
+    
     form {
         margin: 40px 0;
     }
@@ -220,6 +217,13 @@ header {
 
     .imagembeneficios {
         width: 60%;
+        opacity: 1;
+        transition: 400ms;
+        box-shadow: 10px 10px 10px #000000;
+    }
+
+    .imagembeneficios:hover {
+        opacity: 0.3;
     }
 
     .mapa {
@@ -241,4 +245,48 @@ header {
     .video {
         width: 560px;
         margin: 2em auto;
+    }
+
+    @media screen and (max-width: 480px) {
+        .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+            width: auto;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        nav {
+            position: static;
+        }
+
+        .imagembeneficios, .lista-beneficios {
+            width: 100%;
+        }
+    }
+
+    @media screen and (max-width: 480px) {
+        .caixa {
+            width: auto;
+        }
+
+        h2 {
+            text-align: center;
+        
+        }
+        
+        nav {
+            position: static;
+        }
+
+         .cabelo, .barba, .cabelobarba, .produto-descricao, .produto-preco {
+        width: 100%;
+       }
+
+       .produtos li  {
+        width: 37%;
+        
+       }
+
+    
     }
