@@ -9,4 +9,4 @@
 ## ⚙ Projeto
 
 - Projeto para estudo de HTML e CSS básicos
-- Criaçaõ de página WEB, tabelas, formulários, listas, navegação entre telas, posicionamento e CSS avançado
+- Criação de página WEB, tabelas, formulários, listas, navegação entre telas, posicionamento e CSS avançado
