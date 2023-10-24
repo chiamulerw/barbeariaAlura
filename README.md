@@ -1,6 +1,6 @@
 <h1 align="center">Barbearia Alura</h1>
 
-<p align="center">Projeto "Barbearia ALura" fornecido pela plataforma Alura</p>
+<p align="center">Projeto "Barbearia Alura" fornecido pela plataforma Alura</p>
 
 ## 👾 Tecnologias
 
